@@ -42,7 +42,7 @@
         "bignum": "git+https://github.com/Miguel974/node-bignum.git#node12",ok
         "bitcoinjs-lib": "^5.1.10",
         "cryptocurrency-addr": "git+https://github.com/Miguel974/node-cryptocurrency-addr.git",ok
-        "equihashverify": "git+https://github.com/AoD-Technologies/equihashverify.git",
+        "equihashverify": "git+https://github.com/Miguel974/equihashverify.git",ok
         "merkle-bitcoin": "^1.0.2",
         "multi-hashing": "git+https://github.com/Invader444/node-multi-hashing.git",
         "promise": "^8.0.3",
